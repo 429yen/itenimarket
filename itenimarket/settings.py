@@ -124,4 +124,4 @@ STATIC_URL = '/static/'
 LOGIN_URL='admin:login'
 LOGOUT_REDIRECT_URL='/'
 
-CRISPY_TEMPATE_PACK = 'bootstrap4'
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
